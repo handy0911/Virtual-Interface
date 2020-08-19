@@ -1,2 +1,3 @@
 # Virtual-Interface
-實現虛擬介面元件拖拉的應用，同時將畫面元件綁定JSON格式
+This web application can let user drag and drop component.
+https://handy0911.github.io/Virtual-Interface/#/
